@@ -27,6 +27,9 @@ p,l,u=lu(a)
 print(l)
 print(u)
 ```
+## Output:
+![image](https://github.com/user-attachments/assets/ebe2b2a5-d35e-4d9f-b254-9c72aa8677f9)
+
 (ii) To find the LU Decomposition of a matrix
 ```
 Program to find the LU Decomposition of a matrix.
@@ -42,7 +45,6 @@ print(x)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/ebe2b2a5-d35e-4d9f-b254-9c72aa8677f9)
 ![image](https://github.com/user-attachments/assets/3c4d5b8b-7408-4e79-92af-21f317ca96e8)
 
 ## Result:
